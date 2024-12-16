@@ -1,6 +1,6 @@
 "use client";
 
-import { navItems } from "@/data";
+import { navItems } from "@/components";
 
 import Hero from "@/components/Hero";
 import Grid from "@/components/Grid";
